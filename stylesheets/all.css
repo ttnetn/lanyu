@@ -14383,3 +14383,12 @@ html {
 .text-custom {
   color: #013360;
 }
+/* 調整logo圖片的樣式 */
+.navbar-brand img {
+  width: 50px;
+  /* 設置logo圖片的寬度 */
+  height: auto;
+  /* 保持原始高度比例 */
+  margin-right: 10px;
+  /* 在標題文字之前留一些間距 */
+}
