@@ -14352,6 +14352,10 @@ fieldset:disabled .btn {
 
 /*# sourceMappingURL=all.css.map */
 
+/* 將背景圖片設置為滿版 */
+#footer section {
+  background-size: cover;
+}
 
 /* 將footer設置為滿版寬度 */
 #footer {
